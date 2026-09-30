@@ -1,0 +1,8 @@
+# Runtime
+websockets>=13.0      # asyncio WebSocket client (websockets.asyncio.client)
+rich>=13.7            # live terminal dashboard
+pandas>=2.2           # ring-buffer export / offline analysis
+numpy>=1.26           # latency percentiles, realized volatility
+
+# Test
+pytest>=8.0
